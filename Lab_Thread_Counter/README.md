@@ -1,7 +1,11 @@
 # Lab_Thread_Counter — Static vs Non-Static Counters in Multithreading
 
 **Name:** Rina Akter
+
+
 **ID:** IT-24036
+
+
 **Course code:** ICT-3108
 
 ## 1. Files in this directory
