@@ -1,0 +1,8 @@
+<header class="site-header">
+  <a class="brand" href="index.jsp"><span class="brand-mark">♥</span><span><b>Life<span>Link</span></b><small>Connecting Donors. Supporting Lives.</small></span></a>
+  <button class="menu-toggle" aria-label="Toggle navigation" type="button" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
+  <nav class="nav-links">
+    <a href="index.jsp">Home</a><a href="find-blood.jsp">Find Blood</a><a href="donor-register.jsp">Become a Donor</a><a href="emergency-request.jsp">Emergency Request</a>
+  </nav>
+  <a class="login-link" href="donor-register.jsp">Join as Donor <span>↗</span></a>
+</header>

@@ -1,0 +1,9 @@
+LIFELINK — START HERE
+1. Open this folder in IntelliJ IDEA (the folder containing pom.xml).
+2. Wait for Maven import.
+3. Configure Tomcat 10.1.
+4. Deploy LifeLink:war exploded.
+5. Run and open http://localhost:8080/LifeLink/
+
+Today’s prototype includes Home, Find Blood, Become a Donor and Emergency Request.
+All donor profiles are fictional demo records. Forms do not save or send data.

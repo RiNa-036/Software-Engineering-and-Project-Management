@@ -1,0 +1,8 @@
+BEFORE SUBMISSION
+[x] Student name, student ID, course code/name, department and teacher details filled in proposal.
+[x] Add the LifeLink GitHub project folder URL to the proposal.
+[ ] Push this project to your own GitHub repository.
+[ ] Run on Tomcat 10.1 and test the Find Blood and Emergency Request workflows.
+[ ] Take actual browser screenshots and add them under screenshots/.
+[ ] If a live website URL is required, deploy the app to a Java-supporting host; a GitHub repository URL alone is not a running Java web app.
+[ ] Do not claim demo profiles are real donors or that this is a live emergency service.
